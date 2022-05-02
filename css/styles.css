@@ -1,0 +1,145 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.62rem;
+  color: #66BFBF;
+  /* line-height: 2; */
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom:none;
+  width: 4%;
+  margin: 100px auto;
+
+}
+p{
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+}
+
+.description{
+  margin: auto;
+  width: 30%;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chilli-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me{
+  margin: 40px auto 60px;
+  width: 40%;
+}
+/* .code-skill-description{
+  font-size:
+}
+.chilli-description{
+  clear: right;
+} */
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 30px;
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+
+.footer-link {
+  color: #11999E;
+  font-family: 'Montserrat Alternates', sans-serif;
+  margin: 10px 20px;
+}
+
+.rights {
+  color: #EAF6F6;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  padding-bottom: 1
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  top: 400px;
+}
+.rights{
+  font-size: .7rem;
+  margin-top: 30px;
+}
+
+.BUTTON_WDO {
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #FFFFFF;
+   font-family: 'Montserrat Alternates', sans-serif;
+   font-size: 26px;
+   font-weight: 100;
+   padding: 12px;
+   background-color: rgba(21, 188, 149, 0.94);
+   text-shadow: 0 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 40px;
+}
+
+.BUTTON_WDO:hover {
+   background:  rgba(61, 246, 201, 0.88);
+   border: solid rgba(21, 188, 149, 0.94) 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
